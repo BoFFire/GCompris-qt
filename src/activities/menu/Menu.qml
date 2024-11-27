@@ -27,7 +27,6 @@ import QtQuick.Controls.Basic
  *
  * The list of available activities depends on the following settings:
  *
- * * ApplicationSettings.showLockedActivities
  * * ApplicationSettings.filterLevelMin
  * * ApplicationSettings.filterLevelMax
  *
@@ -66,8 +65,6 @@ ActivityBase {
             }
         }
     }
-
-    enabled: ActivityInfoTree.startingActivity === ""
 
     onDisplayDialog: (dialog) => pageView.pushElement(dialog)
 
@@ -1209,21 +1206,6 @@ ActivityBase {
                     dialogActivityConfig.configItem.visible = true
                 }
             }
-        }
-    }
-    // splash screen when using --launch <activity> option
-    Rectangle {
-        visible: ActivityInfoTree.startingActivity != ""
-        anchors.fill: parent
-        color: "#16B8EA"
-        Image {
-            source: "qrc:/gcompris/src/core/resource/gcompris-logo-full.svg"
-            anchors.bottom: parent.bottom
-            anchors.right: parent.right
-            anchors.margins: 20 * activity.applicationInfoRatio
-            width: parent.width * 0.3
-            sourceSize.width: width
-            fillMode: Image.PreserveAspectFit
         }
     }
 }

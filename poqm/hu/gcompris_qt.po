@@ -4515,33 +4515,33 @@ msgctxt "chess|"
 msgid "Drawn game"
 msgstr "Döntetlen"
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|black king is under attack"
 msgid "White checks"
 msgstr "Fehér sakk"
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|white king is under attack"
 msgid "Black checks"
 msgstr "Fekete sakk"
 
-#: activities/chess/chess.js:139
+#: activities/chess/chess.js:144
 msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr "Helytelen lépés, a kiráylod sakkban van"
 
 #. Translators: undo all the moves in chess activity
-#: activities/chess/Chess.qml:137
+#: activities/chess/Chess.qml:140
 msgctxt "Chess|"
 msgid "Do you really want to undo all the moves?"
 msgstr "Valóban vissza akarod vonni az összes lépést?"
 
-#: activities/chess/Chess.qml:138
+#: activities/chess/Chess.qml:141
 msgctxt "Chess|"
 msgid "Yes"
 msgstr "Igen"
 
-#: activities/chess/Chess.qml:139
+#: activities/chess/Chess.qml:142
 msgctxt "Chess|"
 msgid "No"
 msgstr "Nem"
@@ -19257,7 +19257,7 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Minden kisbetűs"
 
-#: activities/menu/Menu.qml:93
+#: activities/menu/Menu.qml:90
 #, fuzzy
 #| msgctxt "main|"
 #| msgid "Do you want to download the corresponding sound files now?"
@@ -19267,77 +19267,77 @@ msgid ""
 "files now?"
 msgstr "Szeretnéd most letölteni a hangokat?"
 
-#: activities/menu/Menu.qml:94
+#: activities/menu/Menu.qml:91
 msgctxt "Menu|"
 msgid "Yes"
 msgstr "Igen"
 
-#: activities/menu/Menu.qml:101
+#: activities/menu/Menu.qml:98
 msgctxt "Menu|"
 msgid "No"
 msgstr "Nem"
 
-#: activities/menu/Menu.qml:120
+#: activities/menu/Menu.qml:117
 msgctxt "Menu|"
 msgid "Logic"
 msgstr "Logika"
 
-#: activities/menu/Menu.qml:121
+#: activities/menu/Menu.qml:118
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr "Művészetek"
 
-#: activities/menu/Menu.qml:122
+#: activities/menu/Menu.qml:119
 msgctxt "Menu|"
 msgid "Music"
 msgstr "Zene"
 
-#: activities/menu/Menu.qml:128
+#: activities/menu/Menu.qml:125
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr "Kísérletek"
 
-#: activities/menu/Menu.qml:129
+#: activities/menu/Menu.qml:126
 msgctxt "Menu|"
 msgid "History"
 msgstr "Történelem"
 
-#: activities/menu/Menu.qml:130
+#: activities/menu/Menu.qml:127
 msgctxt "Menu|"
 msgid "Geography"
 msgstr "Földrajz"
 
-#: activities/menu/Menu.qml:140
+#: activities/menu/Menu.qml:137
 msgctxt "Menu|"
 msgid "Numeration"
 msgstr "Számlálási gyakorlat"
 
-#: activities/menu/Menu.qml:141
+#: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr "Számtan"
 
-#: activities/menu/Menu.qml:142
+#: activities/menu/Menu.qml:139
 msgctxt "Menu|"
 msgid "Measures"
 msgstr "Mértékegységek"
 
-#: activities/menu/Menu.qml:152
+#: activities/menu/Menu.qml:149
 msgctxt "Menu|"
 msgid "Letters"
 msgstr "Betűk"
 
-#: activities/menu/Menu.qml:153
+#: activities/menu/Menu.qml:150
 msgctxt "Menu|"
 msgid "Words"
 msgstr "Szavak"
 
-#: activities/menu/Menu.qml:154
+#: activities/menu/Menu.qml:151
 msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Szókincs és olvasás"
 
-#: activities/menu/Menu.qml:372
+#: activities/menu/Menu.qml:369
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by clicking on the sun at the top right of "
@@ -19346,12 +19346,12 @@ msgstr ""
 "Jelöld meg a kedvenc feladataidat. Kattints a feladatválasztó jobb felső "
 "sarkában lévő napocskára!"
 
-#: activities/menu/Menu.qml:792
+#: activities/menu/Menu.qml:789
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr "Feladat keresése"
 
-#: activities/menu/Menu.qml:819
+#: activities/menu/Menu.qml:816
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr "Tevékenység beállítások"
@@ -24195,6 +24195,348 @@ msgctxt "ActivityInfo|"
 msgid "Tab: switch between the color selector and the painting area"
 msgstr "Tab: váltás a színválasztó és a festő terület között"
 
+#: activities/sketch/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid "Sketch"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:18
+msgctxt "ActivityInfo|"
+msgid "Use the various digital painting tools to draw images."
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:20
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Learn about multiples and factors."
+msgctxt "ActivityInfo|"
+msgid "Learn about some digital painting tools."
+msgstr "Tanulj a többszörösökről és a osztókról."
+
+#: activities/sketch/ActivityInfo.qml:22
+msgctxt "ActivityInfo|"
+msgid ""
+"Select tools and colors from the foldable panels and draw images.<br><br>"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:23
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Keyboard controls:"
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard controls:"
+msgstr "Irányítás:"
+
+#: activities/sketch/ActivityInfo.qml:24
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Ctrl + Z: undo"
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Z: undo last action"
+msgstr "CTRL + Z: Visszavonás"
+
+#: activities/sketch/ActivityInfo.qml:25
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Y: redo last action"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Ctrl + A: select all the text"
+msgctxt "ActivityInfo|"
+msgid "Ctrl + S: save the image"
+msgstr "CTRL + A: A teljes szöveg kijelölése."
+
+#: activities/sketch/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Ctrl + O: open an image"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Ctrl + N, Delete or Backspace: create a new image"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Brush smoothing concept from:"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Sketch brush concept from:"
+msgstr ""
+
+#: activities/sketch/BackgroundColorSelector.qml:40
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "BackgroundColorSelector|"
+msgid "Background color"
+msgstr "Háttérben"
+
+#: activities/sketch/BackgroundSelector.qml:42
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "BackgroundSelector|"
+msgid "Background image"
+msgstr "Háttérben"
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Eraser Tools"
+msgstr ""
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Drawing Tools"
+msgstr ""
+
+#: activities/sketch/ColorSelector.qml:75
+#, fuzzy
+#| msgctxt "ColorMix|"
+#| msgid "Match the color"
+msgctxt "ColorSelector|"
+msgid "Palette Colors"
+msgstr "Keverd ki a színt"
+
+#: activities/sketch/ColorSelector.qml:159
+msgctxt "ColorSelector|"
+msgid "Reset palette"
+msgstr ""
+
+#: activities/sketch/ColorSelector.qml:210
+#, fuzzy
+#| msgctxt "ActivityConfig|"
+#| msgid "Selected"
+msgctxt "ColorSelector|"
+msgid "Selected Color"
+msgstr "Kiválasztva"
+
+#. Color hue
+#: activities/sketch/ColorSelector.qml:234
+#, fuzzy
+#| msgctxt "board14_0|"
+#| msgid "Hubei"
+msgctxt "ColorSelector|color hue"
+msgid "Hue"
+msgstr "Hupej tartomány"
+
+#. Color saturation
+#: activities/sketch/ColorSelector.qml:261
+#, fuzzy
+#| msgctxt "Dataset|"
+#| msgid "Saturn"
+msgctxt "ColorSelector|color saturation"
+msgid "Saturation"
+msgstr "Szaturnusz"
+
+#. Color lightness
+#: activities/sketch/ColorSelector.qml:286
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Lights off"
+msgctxt "ColorSelector|color lightness"
+msgid "Lightness"
+msgstr "Fények le"
+
+#. Reload default color for selected slot
+#: activities/sketch/ColorSelector.qml:323
+msgctxt "ColorSelector|"
+msgid "Reset Color"
+msgstr ""
+
+#: activities/sketch/ColorsPanel.qml:157
+#, fuzzy
+#| msgctxt "board9_0|"
+#| msgid "Palestine"
+msgctxt "ColorsPanel|"
+msgid "Palettes"
+msgstr "Palesztina"
+
+#: activities/sketch/FilesPanel.qml:46
+#, fuzzy
+#| msgctxt "ActivityConfig|"
+#| msgid "Select your mode"
+msgctxt "FilesPanel|"
+msgid "Save your image"
+msgstr "Válassz módot!"
+
+#: activities/sketch/FilesPanel.qml:85
+#, fuzzy
+#| msgctxt "ChangeLog|"
+#| msgid "Many new images"
+msgctxt "FilesPanel|"
+msgid "Open an image"
+msgstr "Rengeteg új kép"
+
+#: activities/sketch/FilesPanel.qml:116
+#, fuzzy
+#| msgctxt "DialogChooseLevel|"
+#| msgid "%1 settings"
+msgctxt "FilesPanel|"
+msgid "New image settings"
+msgstr "%1 beállítások"
+
+#: activities/sketch/FilesPanel.qml:144
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "FilesPanel|"
+msgid "Background color"
+msgstr "Háttérben"
+
+#: activities/sketch/FilesPanel.qml:190
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "FilesPanel|"
+msgid "Background image"
+msgstr "Háttérben"
+
+#: activities/sketch/FilesPanel.qml:231
+#, fuzzy
+#| msgctxt "ChangeLog|"
+#| msgid "Many new images"
+msgctxt "FilesPanel|"
+msgid "Create a new image"
+msgstr "Rengeteg új kép"
+
+#. Rectangle or Square radius size
+#: activities/sketch/GeometryTool.qml:23
+msgctxt "GeometryTool|"
+msgid "Rounded Corners"
+msgstr ""
+
+#: activities/sketch/GeometryToolPanel.qml:17
+msgctxt "GeometryToolPanel|"
+msgid "Geometry Tools"
+msgstr ""
+
+#: activities/sketch/GradientTool.qml:22
+msgctxt "GradientTool|"
+msgid "Inner Circle Size"
+msgstr ""
+
+#: activities/sketch/GradientToolPanel.qml:17
+msgctxt "GradientToolPanel|"
+msgid "Gradient Tools"
+msgstr ""
+
+#: activities/sketch/Sketch.qml:673
+#, fuzzy
+#| msgctxt "Piano_composition|"
+#| msgid "You have not selected any note. Do you want to erase all the notes?"
+msgctxt "Sketch|"
+msgid "You did not save this image. Do you want to close this activity?"
+msgstr "Nem választottál egy hangot sem. Biztosan mindent törölni szeretnél?"
+
+#: activities/sketch/Sketch.qml:674
+#, fuzzy
+#| msgctxt "ConfigurationItem|"
+#| msgid "Do you want to download it now?"
+msgctxt "Sketch|"
+msgid "Do you want to erase this image?"
+msgstr "Szeretnéd most letölteni őket?"
+
+#: activities/sketch/Sketch.qml:675
+#, fuzzy
+#| msgctxt "balanceboxeditor|"
+#| msgid "Yes"
+msgctxt "Sketch|"
+msgid "Yes"
+msgstr "Igen"
+
+#: activities/sketch/Sketch.qml:676
+#, fuzzy
+#| msgctxt "balanceboxeditor|"
+#| msgid "No"
+msgctxt "Sketch|"
+msgid "No"
+msgstr "Nem"
+
+#: activities/sketch/StampToolPanel.qml:18
+msgctxt "StampToolPanel|"
+msgid "Stamp Tool"
+msgstr ""
+
+#: activities/sketch/TextToolPanel.qml:17
+msgctxt "TextToolPanel|"
+msgid "Text Tool"
+msgstr ""
+
+#: activities/sketch/TextToolPanel.qml:33
+msgctxt "TextToolPanel|"
+msgid "Type your text here"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:253
+#, fuzzy
+#| msgctxt "category_tools|"
+#| msgid "Tools"
+msgctxt "ToolsPanel|"
+msgid "Tools"
+msgstr "Eszközök"
+
+#: activities/sketch/ToolsPanel.qml:427
+msgctxt "ToolsPanel|"
+msgid "Reset tool settings"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:483
+msgctxt "ToolsPanel|"
+msgid "Opacity"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:506
+msgctxt "ToolsPanel|"
+msgid "Size"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:526
+#, fuzzy
+#| msgctxt "ActivityConfig|"
+#| msgid "Speed"
+msgctxt "ToolsPanel|"
+msgid "Speed"
+msgstr "Sebesség"
+
+#: activities/sketch/ToolsPanel.qml:546
+msgctxt "ToolsPanel|"
+msgid "Density"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:566
+#, fuzzy
+#| msgctxt "ActivityConfig|"
+#| msgid "Dots"
+msgctxt "ToolsPanel|"
+msgid "Dots Size"
+msgstr "Pontok"
+
+#: activities/sketch/ToolsPanel.qml:585
+msgctxt "ToolsPanel|"
+msgid "Smoothing"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:646
+#, fuzzy
+#| msgctxt "Lang|"
+#| msgid "action"
+msgctxt "ToolsPanel|"
+msgid "Rotation"
+msgstr "cselekvés"
+
+#: activities/sketch/ToolsPanel.qml:662
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Mirror the given image"
+msgctxt "ToolsPanel|"
+msgid "Mirror image"
+msgstr "Tükrözd a megadott képet!"
+
 #. Activity title
 #: activities/smallnumbers/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
@@ -27257,65 +27599,73 @@ msgctxt "QObject|"
 msgid "No data found for %1."
 msgstr "Nem találtunk adatot %1-hez."
 
-#: core/GCCreationHandler.qml:134
+#: core/GCCreationHandler.qml:176
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr "%1 sikeresen törölve!"
 
-#: core/GCCreationHandler.qml:135 core/GCCreationHandler.qml:140
-#: core/GCCreationHandler.qml:181
+#: core/GCCreationHandler.qml:177 core/GCCreationHandler.qml:182
+#: core/GCCreationHandler.qml:235
 msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr "Ok"
 
-#: core/GCCreationHandler.qml:139
+#: core/GCCreationHandler.qml:181
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr "Nem tudom törölni %1-t!"
 
-#: core/GCCreationHandler.qml:172
+#: core/GCCreationHandler.qml:215
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr "Már létezik fájl ezen a néven. Felülírjuk?"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr "Igen"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr "Nem"
 
-#: core/GCCreationHandler.qml:180
+#: core/GCCreationHandler.qml:222
+#, fuzzy
+#| msgctxt "Chess|"
+#| msgid "Do you really want to undo all the moves?"
+msgctxt "GCCreationHandler|"
+msgid "Do you really want to delete this file?"
+msgstr "Valóban vissza akarod vonni az összes lépést?"
+
+#: core/GCCreationHandler.qml:234
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr "Sikeres mentés!"
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr "Add meg a fájlnevet"
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr "Keresés"
 
-#: core/GCCreationHandler.qml:219
+#: core/GCCreationHandler.qml:279
 msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr "Mentés"
 
-#: core/GCCreationHandler.qml:325
+#: core/GCCreationHandler.qml:386
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr "Betöltés"
 
-#: core/GCCreationHandler.qml:335
+#: core/GCCreationHandler.qml:396
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr "Törlés"
@@ -27452,7 +27802,7 @@ msgstr ""
 "Megadható, hogy a tevékenységet melyik szinten kívánjuk elindítani. Csak "
 "akkor használatos, ha a --launch opciót használjuk."
 
-#: core/main.qml:263
+#: core/main.qml:235
 msgctxt "main|"
 msgid ""
 "Do you want to automatically download or update the following external "
@@ -27461,67 +27811,32 @@ msgstr ""
 "Szeretnéd automatikusan letölteni vagy frissíteni a külső forrrásokat a "
 "GCompris indításakor?"
 
-#: core/main.qml:265
+#: core/main.qml:237
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr "Anyanyelvi hangok"
 
-#: core/main.qml:266
+#: core/main.qml:238
 msgctxt "main|"
 msgid "Full word image set"
 msgstr "Teljes szóképkészlet használata"
 
-#: core/main.qml:267
+#: core/main.qml:239
 msgctxt "main|"
 msgid "Background music"
 msgstr "Háttérzene"
 
-#: core/main.qml:273
+#: core/main.qml:245
 msgctxt "main|"
 msgid "Yes"
 msgstr "Igen"
 
-#: core/main.qml:280
+#: core/main.qml:252
 msgctxt "main|"
 msgid "No"
 msgstr "Nem"
 
-#: core/main.qml:316
-msgctxt "main|"
-msgid "Welcome to GCompris!"
-msgstr "Köszöntünk a GComprisban!"
-
-#: core/main.qml:317
-msgctxt "main|"
-msgid "You are running GCompris for the first time."
-msgstr "Első alkalommal futtatod a GComprist."
-
-#: core/main.qml:318
-msgctxt "main|"
-msgid ""
-"You should verify that your application settings especially your language is "
-"set correctly. You can do this in the Configuration dialog."
-msgstr ""
-"Ellenőrizd a program beállításait, különösen a nyelvi beáéllításokat. Mindez "
-"beállítható a Tulajdonságok panelen."
-
-#: core/main.qml:320
-msgctxt "main|"
-msgid "Have Fun!"
-msgstr "Jó szórakozást!"
-
-#: core/main.qml:322
-#, qt-format
-msgctxt "main|"
-msgid "Your current language is %1 (%2)."
-msgstr "A jelenlegi nyelved %1 (%2)."
-
-#: core/main.qml:354
-msgctxt "main|"
-msgid "GCompris has been updated! Here are the new changes:<br/>"
-msgstr "A GCompris frissült. A változások a következők:<br/>"
-
-#: core/main.qml:382
+#: core/main.qml:274
 msgctxt "main|"
 msgid ""
 "Some activities have new dataset available. Do you want to reset their "
@@ -27530,15 +27845,50 @@ msgstr ""
 "Néhány tevékenységhez új adatkészlet áll rendelkezésre. Szeretnéd "
 "visszaállítani az adatkészlet kiválasztását?"
 
-#: core/main.qml:383
+#: core/main.qml:275
 msgctxt "main|"
 msgid "Apply"
 msgstr "Alkalmaz"
 
-#: core/main.qml:384
+#: core/main.qml:276
 msgctxt "main|"
 msgid "Cancel"
 msgstr "Mégsem"
+
+#: core/main.qml:361
+msgctxt "main|"
+msgid "Welcome to GCompris!"
+msgstr "Köszöntünk a GComprisban!"
+
+#: core/main.qml:362
+msgctxt "main|"
+msgid "You are running GCompris for the first time."
+msgstr "Első alkalommal futtatod a GComprist."
+
+#: core/main.qml:363
+msgctxt "main|"
+msgid ""
+"You should verify that your application settings especially your language is "
+"set correctly. You can do this in the Configuration dialog."
+msgstr ""
+"Ellenőrizd a program beállításait, különösen a nyelvi beáéllításokat. Mindez "
+"beállítható a Tulajdonságok panelen."
+
+#: core/main.qml:365
+msgctxt "main|"
+msgid "Have Fun!"
+msgstr "Jó szórakozást!"
+
+#: core/main.qml:367
+#, qt-format
+msgctxt "main|"
+msgid "Your current language is %1 (%2)."
+msgstr "A jelenlegi nyelved %1 (%2)."
+
+#: core/main.qml:399
+msgctxt "main|"
+msgid "GCompris has been updated! Here are the new changes:<br/>"
+msgstr "A GCompris frissült. A változások a következők:<br/>"
 
 #: core/ReadyButton.qml:69
 msgctxt "ReadyButton|"
@@ -29644,10 +29994,6 @@ msgstr "Indítás"
 #~ msgctxt "ConfigurationItem|"
 #~ msgid "The background music is not yet installed. "
 #~ msgstr "A háttérzene nincs telepítve."
-
-#~ msgctxt "ConfigurationItem|"
-#~ msgid "Do you want to download it now?"
-#~ msgstr "Szeretnéd most letölteni őket?"
 
 #~ msgctxt "ActivityInfo|"
 #~ msgid ""

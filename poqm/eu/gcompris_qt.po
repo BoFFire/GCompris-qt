@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GCompris\n"
 "POT-Creation-Date: 2018-11-30 13:03+0000\n"
-"PO-Revision-Date: 2024-09-25 22:28+0200\n"
+"PO-Revision-Date: 2024-10-16 21:45+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.08.0\n"
+"X-Generator: Lokalize 24.08.1\n"
 "X-Qt-Contexts: true\n"
 
 #: activities/adjacent_numbers/ActivityConfig.qml:19
@@ -4481,33 +4481,33 @@ msgctxt "chess|"
 msgid "Drawn game"
 msgstr "Berdinketa"
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|black king is under attack"
 msgid "White checks"
 msgstr "Zurien xakea"
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|white king is under attack"
 msgid "Black checks"
 msgstr "Beltzen xakea"
 
-#: activities/chess/chess.js:139
+#: activities/chess/chess.js:144
 msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr "Baliogabea, zure erregea xakean egon liteke"
 
 #. Translators: undo all the moves in chess activity
-#: activities/chess/Chess.qml:137
+#: activities/chess/Chess.qml:140
 msgctxt "Chess|"
 msgid "Do you really want to undo all the moves?"
 msgstr "Mugimendu guztiak benetan desegin nahi dituzu?"
 
-#: activities/chess/Chess.qml:138
+#: activities/chess/Chess.qml:141
 msgctxt "Chess|"
 msgid "Yes"
 msgstr "Bai"
 
-#: activities/chess/Chess.qml:139
+#: activities/chess/Chess.qml:142
 msgctxt "Chess|"
 msgid "No"
 msgstr "Ez"
@@ -19002,7 +19002,7 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Dena letra xehez"
 
-#: activities/menu/Menu.qml:93
+#: activities/menu/Menu.qml:90
 msgctxt "Menu|"
 msgid ""
 "You selected a new locale, do you want to download the corresponding sound "
@@ -19011,77 +19011,77 @@ msgstr ""
 "Tokiko konfigurazio berria hautatu duzu, hari dagozkion soinu-fitxategiak "
 "orain zama-jaitsi nahi dituzu?"
 
-#: activities/menu/Menu.qml:94
+#: activities/menu/Menu.qml:91
 msgctxt "Menu|"
 msgid "Yes"
 msgstr "Bai"
 
-#: activities/menu/Menu.qml:101
+#: activities/menu/Menu.qml:98
 msgctxt "Menu|"
 msgid "No"
 msgstr "Ez"
 
-#: activities/menu/Menu.qml:120
+#: activities/menu/Menu.qml:117
 msgctxt "Menu|"
 msgid "Logic"
 msgstr "Logika"
 
-#: activities/menu/Menu.qml:121
+#: activities/menu/Menu.qml:118
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr "Arte ederrak"
 
-#: activities/menu/Menu.qml:122
+#: activities/menu/Menu.qml:119
 msgctxt "Menu|"
 msgid "Music"
 msgstr "Musika"
 
-#: activities/menu/Menu.qml:128
+#: activities/menu/Menu.qml:125
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr "Saiakuntza"
 
-#: activities/menu/Menu.qml:129
+#: activities/menu/Menu.qml:126
 msgctxt "Menu|"
 msgid "History"
 msgstr "Historia"
 
-#: activities/menu/Menu.qml:130
+#: activities/menu/Menu.qml:127
 msgctxt "Menu|"
 msgid "Geography"
 msgstr "Geografia"
 
-#: activities/menu/Menu.qml:140
+#: activities/menu/Menu.qml:137
 msgctxt "Menu|"
 msgid "Numeration"
 msgstr "Zenbaketa"
 
-#: activities/menu/Menu.qml:141
+#: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr "Aritmetika"
 
-#: activities/menu/Menu.qml:142
+#: activities/menu/Menu.qml:139
 msgctxt "Menu|"
 msgid "Measures"
 msgstr "Neurriak"
 
-#: activities/menu/Menu.qml:152
+#: activities/menu/Menu.qml:149
 msgctxt "Menu|"
 msgid "Letters"
 msgstr "Letrak"
 
-#: activities/menu/Menu.qml:153
+#: activities/menu/Menu.qml:150
 msgctxt "Menu|"
 msgid "Words"
 msgstr "Hitzak"
 
-#: activities/menu/Menu.qml:154
+#: activities/menu/Menu.qml:151
 msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Hiztegia"
 
-#: activities/menu/Menu.qml:372
+#: activities/menu/Menu.qml:369
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by clicking on the sun at the top right of "
@@ -19090,12 +19090,12 @@ msgstr ""
 "Jarduera gogokoenak hemen jartzeko, egin klik jarduera horren goiko "
 "eskuineko eguzkian."
 
-#: activities/menu/Menu.qml:792
+#: activities/menu/Menu.qml:789
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr "Bilatu jarduera jakin batzuk"
 
-#: activities/menu/Menu.qml:819
+#: activities/menu/Menu.qml:816
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr "Jarduera-ezarpenak"
@@ -23900,6 +23900,269 @@ msgctxt "ActivityInfo|"
 msgid "Tab: switch between the color selector and the painting area"
 msgstr "Tab: kolore hautatzailearen eta margotzeko eremuaren artean aldatzea"
 
+#: activities/sketch/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid "Sketch"
+msgstr "Zirriborroa"
+
+#: activities/sketch/ActivityInfo.qml:18
+msgctxt "ActivityInfo|"
+msgid "Use the various digital painting tools to draw images."
+msgstr "Erabili margotzeko tresna digitalak irudiak marrazteko."
+
+#: activities/sketch/ActivityInfo.qml:20
+msgctxt "ActivityInfo|"
+msgid "Learn about some digital painting tools."
+msgstr "Ikasi marrazteko tresna digital batzuei buruz."
+
+#: activities/sketch/ActivityInfo.qml:22
+msgctxt "ActivityInfo|"
+msgid ""
+"Select tools and colors from the foldable panels and draw images.<br><br>"
+msgstr ""
+"Hautatu panel tolesgarrietako tresnak eta koloreak eta irudiak marraztu."
+"<br><br>"
+
+#: activities/sketch/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard controls:"
+msgstr "<b>Teklatuaren kontrolak:"
+
+#: activities/sketch/ActivityInfo.qml:24
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Z: undo last action"
+msgstr "Ktrl + Z: azken ekintza desegiteko"
+
+#: activities/sketch/ActivityInfo.qml:25
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Y: redo last action"
+msgstr "Ktrl + Y: azken ekintza berregiteko"
+
+#: activities/sketch/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Ctrl + S: save the image"
+msgstr "Ktrl + S: irudia gordetzeko"
+
+#: activities/sketch/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Ctrl + O: open an image"
+msgstr "Ktrl + O: irudi bat irekitzeko"
+
+#: activities/sketch/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Ctrl + N, Delete or Backspace: create a new image"
+msgstr "Ktrl + N, Ezabatu edo Atzera tekla: irudi berri bat sortzeko"
+
+#: activities/sketch/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Brush smoothing concept from:"
+msgstr "Pintzela leuntzeko kontzeptua nondik:"
+
+#: activities/sketch/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Sketch brush concept from:"
+msgstr "Zirriborro-pintzelaren kontzeptua nondik:"
+
+#: activities/sketch/BackgroundColorSelector.qml:40
+msgctxt "BackgroundColorSelector|"
+msgid "Background color"
+msgstr "Atzeko planoaren kolorea"
+
+#: activities/sketch/BackgroundSelector.qml:42
+msgctxt "BackgroundSelector|"
+msgid "Background image"
+msgstr "Atzeko planoko irudia"
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Eraser Tools"
+msgstr "Ezabatzeko tresnak"
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Drawing Tools"
+msgstr "Marrazteko tresnak"
+
+#: activities/sketch/ColorSelector.qml:75
+msgctxt "ColorSelector|"
+msgid "Palette Colors"
+msgstr "Paletako koloreak"
+
+#: activities/sketch/ColorSelector.qml:159
+msgctxt "ColorSelector|"
+msgid "Reset palette"
+msgstr "Berrezarri paleta"
+
+#: activities/sketch/ColorSelector.qml:210
+msgctxt "ColorSelector|"
+msgid "Selected Color"
+msgstr "Hautatutako kolorea"
+
+#. Color hue
+#: activities/sketch/ColorSelector.qml:234
+msgctxt "ColorSelector|color hue"
+msgid "Hue"
+msgstr "Ñabardura"
+
+#. Color saturation
+#: activities/sketch/ColorSelector.qml:261
+msgctxt "ColorSelector|color saturation"
+msgid "Saturation"
+msgstr "Asetasuna"
+
+#. Color lightness
+#: activities/sketch/ColorSelector.qml:286
+msgctxt "ColorSelector|color lightness"
+msgid "Lightness"
+msgstr "Argitasuna"
+
+#. Reload default color for selected slot
+#: activities/sketch/ColorSelector.qml:323
+msgctxt "ColorSelector|"
+msgid "Reset Color"
+msgstr "Berrezarri kolorea"
+
+#: activities/sketch/ColorsPanel.qml:157
+msgctxt "ColorsPanel|"
+msgid "Palettes"
+msgstr "Paletak"
+
+#: activities/sketch/FilesPanel.qml:46
+msgctxt "FilesPanel|"
+msgid "Save your image"
+msgstr "Gorde zure irudia"
+
+#: activities/sketch/FilesPanel.qml:85
+msgctxt "FilesPanel|"
+msgid "Open an image"
+msgstr "Ireki irudi bat"
+
+#: activities/sketch/FilesPanel.qml:116
+msgctxt "FilesPanel|"
+msgid "New image settings"
+msgstr "Irudi berriaren ezarpenak"
+
+#: activities/sketch/FilesPanel.qml:144
+msgctxt "FilesPanel|"
+msgid "Background color"
+msgstr "Atzeko planoaren kolorea"
+
+#: activities/sketch/FilesPanel.qml:190
+msgctxt "FilesPanel|"
+msgid "Background image"
+msgstr "Atzeko planoko irudia"
+
+#: activities/sketch/FilesPanel.qml:231
+msgctxt "FilesPanel|"
+msgid "Create a new image"
+msgstr "Sortu irudi berri bat"
+
+#. Rectangle or Square radius size
+#: activities/sketch/GeometryTool.qml:23
+msgctxt "GeometryTool|"
+msgid "Rounded Corners"
+msgstr "Izkina biribilduak"
+
+#: activities/sketch/GeometryToolPanel.qml:17
+msgctxt "GeometryToolPanel|"
+msgid "Geometry Tools"
+msgstr "Geometria tresnak"
+
+#: activities/sketch/GradientTool.qml:22
+msgctxt "GradientTool|"
+msgid "Inner Circle Size"
+msgstr "Barneko zirkuluaren neurria"
+
+#: activities/sketch/GradientToolPanel.qml:17
+msgctxt "GradientToolPanel|"
+msgid "Gradient Tools"
+msgstr "Gradiente-tresnak"
+
+#: activities/sketch/Sketch.qml:673
+msgctxt "Sketch|"
+msgid "You did not save this image. Do you want to close this activity?"
+msgstr "Ez duzu irudi hau gorde. Jarduera hau itxi nahi duzu?"
+
+#: activities/sketch/Sketch.qml:674
+msgctxt "Sketch|"
+msgid "Do you want to erase this image?"
+msgstr "Irudi hau ezabatu nahi duzu?"
+
+#: activities/sketch/Sketch.qml:675
+msgctxt "Sketch|"
+msgid "Yes"
+msgstr "Bai"
+
+#: activities/sketch/Sketch.qml:676
+msgctxt "Sketch|"
+msgid "No"
+msgstr "Ez"
+
+#: activities/sketch/StampToolPanel.qml:18
+msgctxt "StampToolPanel|"
+msgid "Stamp Tool"
+msgstr "Zigilu-tresna"
+
+#: activities/sketch/TextToolPanel.qml:17
+msgctxt "TextToolPanel|"
+msgid "Text Tool"
+msgstr "Testu-tresna"
+
+#: activities/sketch/TextToolPanel.qml:33
+msgctxt "TextToolPanel|"
+msgid "Type your text here"
+msgstr "Zure testua hemen tekleatu"
+
+#: activities/sketch/ToolsPanel.qml:253
+msgctxt "ToolsPanel|"
+msgid "Tools"
+msgstr "Tresnak"
+
+#: activities/sketch/ToolsPanel.qml:427
+msgctxt "ToolsPanel|"
+msgid "Reset tool settings"
+msgstr "Berrezarri tresnen ezarpenak"
+
+#: activities/sketch/ToolsPanel.qml:483
+msgctxt "ToolsPanel|"
+msgid "Opacity"
+msgstr "Opakutasuna"
+
+#: activities/sketch/ToolsPanel.qml:506
+msgctxt "ToolsPanel|"
+msgid "Size"
+msgstr "Neurria"
+
+#: activities/sketch/ToolsPanel.qml:526
+msgctxt "ToolsPanel|"
+msgid "Speed"
+msgstr "Abiadura"
+
+#: activities/sketch/ToolsPanel.qml:546
+msgctxt "ToolsPanel|"
+msgid "Density"
+msgstr "Dentsitatea"
+
+#: activities/sketch/ToolsPanel.qml:566
+msgctxt "ToolsPanel|"
+msgid "Dots Size"
+msgstr "Puntuen neurria"
+
+#: activities/sketch/ToolsPanel.qml:585
+msgctxt "ToolsPanel|"
+msgid "Smoothing"
+msgstr "Leuntzea"
+
+#: activities/sketch/ToolsPanel.qml:646
+msgctxt "ToolsPanel|"
+msgid "Rotation"
+msgstr "Biraketa"
+
+#: activities/sketch/ToolsPanel.qml:662
+msgctxt "ToolsPanel|"
+msgid "Mirror image"
+msgstr "Ispilatu irudia"
+
 #. Activity title
 #: activities/smallnumbers/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
@@ -26944,65 +27207,70 @@ msgctxt "QObject|"
 msgid "No data found for %1."
 msgstr "Ez da aurkitu %1(e)ren daturik."
 
-#: core/GCCreationHandler.qml:134
+#: core/GCCreationHandler.qml:176
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr "%1 ondo ezabatu da!"
 
-#: core/GCCreationHandler.qml:135 core/GCCreationHandler.qml:140
-#: core/GCCreationHandler.qml:181
+#: core/GCCreationHandler.qml:177 core/GCCreationHandler.qml:182
+#: core/GCCreationHandler.qml:235
 msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr "Ados"
 
-#: core/GCCreationHandler.qml:139
+#: core/GCCreationHandler.qml:181
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr "Ezin da %1 ezabatu!"
 
-#: core/GCCreationHandler.qml:172
+#: core/GCCreationHandler.qml:215
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr "Izen hau duen fitxategi bat jada badago. Ordezkatu nahi duzu?"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr "Bai"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr "Ez"
 
-#: core/GCCreationHandler.qml:180
+#: core/GCCreationHandler.qml:222
+msgctxt "GCCreationHandler|"
+msgid "Do you really want to delete this file?"
+msgstr "Irudi hau benetan ezabatu nahi duzu?"
+
+#: core/GCCreationHandler.qml:234
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr "Ongi gorde da!"
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr "Sartu fitxategi-izena"
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr "Bilatu"
 
-#: core/GCCreationHandler.qml:219
+#: core/GCCreationHandler.qml:279
 msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr "Gorde"
 
-#: core/GCCreationHandler.qml:325
+#: core/GCCreationHandler.qml:386
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr "Zamatu"
 
-#: core/GCCreationHandler.qml:335
+#: core/GCCreationHandler.qml:396
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr "Ezabatu"
@@ -27132,7 +27400,7 @@ msgstr ""
 "Zehaztu jarduera zein mailatan hasi behar den. «--launch» aukera erabiltzen "
 "denean bakarri erabilia."
 
-#: core/main.qml:263
+#: core/main.qml:235
 msgctxt "main|"
 msgid ""
 "Do you want to automatically download or update the following external "
@@ -27141,42 +27409,61 @@ msgstr ""
 "GCompris abiatzean ondoko kanpoko aktiboak automatikoki zama-jaitsi edo "
 "eguneratzea nahi dituzu?"
 
-#: core/main.qml:265
+#: core/main.qml:237
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr "Zure hizkuntzarako ahotsak"
 
-#: core/main.qml:266
+#: core/main.qml:238
 msgctxt "main|"
 msgid "Full word image set"
 msgstr "Hitzen irudi multzo osoa"
 
-#: core/main.qml:267
+#: core/main.qml:239
 msgctxt "main|"
 msgid "Background music"
 msgstr "Hondoko musika"
 
-#: core/main.qml:273
+#: core/main.qml:245
 msgctxt "main|"
 msgid "Yes"
 msgstr "Bai"
 
-#: core/main.qml:280
+#: core/main.qml:252
 msgctxt "main|"
 msgid "No"
 msgstr "Ez"
 
-#: core/main.qml:316
+#: core/main.qml:274
+msgctxt "main|"
+msgid ""
+"Some activities have new dataset available. Do you want to reset their "
+"dataset selection?"
+msgstr ""
+"Jarduera batzuek datu-multzo berriak dituzte. Haien datu-multzoen hautaketa "
+"berrezarri nahi duzu?"
+
+#: core/main.qml:275
+msgctxt "main|"
+msgid "Apply"
+msgstr "Aplikatu"
+
+#: core/main.qml:276
+msgctxt "main|"
+msgid "Cancel"
+msgstr "Utzi"
+
+#: core/main.qml:361
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr "Ongietorri GCompris-era!"
 
-#: core/main.qml:317
+#: core/main.qml:362
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr "GCompris aurreneko aldiz ibiltzen ari zara."
 
-#: core/main.qml:318
+#: core/main.qml:363
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -27186,40 +27473,21 @@ msgstr ""
 "daudela egiaztatu behar zenuke. Hori konfiguratzeko elkarrizketa-koadroan "
 "egin dezakezu."
 
-#: core/main.qml:320
+#: core/main.qml:365
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr "Goza ezazu!"
 
-#: core/main.qml:322
+#: core/main.qml:367
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr "Zure uneko hizkuntza %1 (%2) da."
 
-#: core/main.qml:354
+#: core/main.qml:399
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr "GCompris eguneratu da! Hona hemen aldaketa berriak:<br/>"
-
-#: core/main.qml:382
-msgctxt "main|"
-msgid ""
-"Some activities have new dataset available. Do you want to reset their "
-"dataset selection?"
-msgstr ""
-"Jarduera batzuek datu-multzo berriak dituzte. Haien datu-multzoen hautaketa "
-"berrezarri nahi duzu?"
-
-#: core/main.qml:383
-msgctxt "main|"
-msgid "Apply"
-msgstr "Aplikatu"
-
-#: core/main.qml:384
-msgctxt "main|"
-msgid "Cancel"
-msgstr "Utzi"
 
 #: core/ReadyButton.qml:69
 msgctxt "ReadyButton|"
@@ -30884,10 +31152,6 @@ msgstr "Hasi"
 #~ msgctxt "ConfigurationItem|"
 #~ msgid "The background music is not yet installed. "
 #~ msgstr "Hondoko musika ez dago instalatuta oraindik."
-
-#~ msgctxt "ConfigurationItem|"
-#~ msgid "Do you want to download it now?"
-#~ msgstr "Orain zama-jaitsi nahi duzu?"
 
 #~ msgctxt "main|"
 #~ msgid ""

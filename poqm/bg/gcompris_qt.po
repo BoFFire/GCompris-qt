@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-09-29 14:39+0200\n"
+"PO-Revision-Date: 2024-11-10 20:12+0100\n"
 "Last-Translator: Mincho Kondarev <mkondarev@yahoo.de>\n"
 "Language-Team: Bulgarian <kde-i18n-doc@kde.org>\n"
 "Language: bg\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Lokalize 24.07.70\n"
+"X-Generator: Lokalize 24.11.70\n"
 
 #: activities/adjacent_numbers/ActivityConfig.qml:19
 #: activities/clickanddraw/ActivityConfig.qml:21
@@ -2677,7 +2677,7 @@ msgstr ""
 #, qt-format
 msgctxt "balancebox|"
 msgid "The file '%1' is missing!<br>Falling back to builtin levels."
-msgstr "Файлът '%1' липсва!<br>Връщаме се към вградените нива."
+msgstr "Файлът „%1“ липсва!<br>Връщаме се към вградените нива."
 
 #: activities/balancebox/Balancebox.qml:70
 msgctxt "Balancebox|"
@@ -4483,33 +4483,33 @@ msgctxt "chess|"
 msgid "Drawn game"
 msgstr "Реми"
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|black king is under attack"
 msgid "White checks"
 msgstr "Шах с Белите"
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|white king is under attack"
 msgid "Black checks"
 msgstr "Шах от Чернит"
 
-#: activities/chess/chess.js:139
+#: activities/chess/chess.js:144
 msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr "Невалидно, вашият цар може да е в шах"
 
 #. Translators: undo all the moves in chess activity
-#: activities/chess/Chess.qml:137
+#: activities/chess/Chess.qml:140
 msgctxt "Chess|"
 msgid "Do you really want to undo all the moves?"
 msgstr "Наистина ли искаш да отмениш всички ходове?"
 
-#: activities/chess/Chess.qml:138
+#: activities/chess/Chess.qml:141
 msgctxt "Chess|"
 msgid "Yes"
 msgstr "Да"
 
-#: activities/chess/Chess.qml:139
+#: activities/chess/Chess.qml:142
 msgctxt "Chess|"
 msgid "No"
 msgstr "Не"
@@ -9115,8 +9115,7 @@ msgstr ""
 "Показва се родословно дърво с някои инструкции.\n"
 "Кръговете са свързани с линии за отбелязване на връзките. Семейните двойки "
 "са отбелязани с пръстен на връзката.\n"
-"\"<nnl >\"Щракнете върху чифт членове на семейството, които имат дадената "
-"връзка."
+"Щракнете върху чифт членове на семейството, които имат дадената връзка."
 
 #. Activity title
 #: activities/fifteen/ActivityInfo.qml:15
@@ -15136,7 +15135,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 "GCompris е разработен от общността на KDE, можете да преведете GCompris, "
-"като се присъедините към екипа за превод на <a href=\"%2\">%2</a>"
+"като се присъедините към екипа за превод на <a href=„%2“>%2</a>"
 
 #: activities/hangman/Hangman.qml:413
 msgctxt "Hangman|"
@@ -15978,7 +15977,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 "GCompris е разработен от общността на KDE, можете да преведете GCompris, "
-"като се присъедините към екипа за превод на <a href=\"%2\">%2</a>"
+"като се присъедините към екипа за превод на <a href=„%2“>%2</a>"
 
 #: activities/lang/Lang.qml:139
 msgctxt "Lang|"
@@ -16834,7 +16833,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 "GCompris е разработен от общността на KDE, можете да преведете GCompris, "
-"като се присъедините към екипа за превод на <a href=\"%2\">%2</a>"
+"като се присъедините към екипа за превод на <a href=„%2“>%2</a>"
 
 #: activities/letter-in-word/LetterInWord.qml:325
 msgctxt "LetterInWord|"
@@ -18998,7 +18997,7 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr "Всички малки букви"
 
-#: activities/menu/Menu.qml:93
+#: activities/menu/Menu.qml:90
 msgctxt "Menu|"
 msgid ""
 "You selected a new locale, do you want to download the corresponding sound "
@@ -19006,77 +19005,77 @@ msgid ""
 msgstr ""
 "Избрахте нов локал. Искате ли да изтеглите съответните звукови файлове сега?"
 
-#: activities/menu/Menu.qml:94
+#: activities/menu/Menu.qml:91
 msgctxt "Menu|"
 msgid "Yes"
 msgstr "Да"
 
-#: activities/menu/Menu.qml:101
+#: activities/menu/Menu.qml:98
 msgctxt "Menu|"
 msgid "No"
 msgstr "Не"
 
-#: activities/menu/Menu.qml:120
+#: activities/menu/Menu.qml:117
 msgctxt "Menu|"
 msgid "Logic"
 msgstr "Логика"
 
-#: activities/menu/Menu.qml:121
+#: activities/menu/Menu.qml:118
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr "Изобразително изкуство"
 
-#: activities/menu/Menu.qml:122
+#: activities/menu/Menu.qml:119
 msgctxt "Menu|"
 msgid "Music"
 msgstr "Музика"
 
-#: activities/menu/Menu.qml:128
+#: activities/menu/Menu.qml:125
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr "Експеримент"
 
-#: activities/menu/Menu.qml:129
+#: activities/menu/Menu.qml:126
 msgctxt "Menu|"
 msgid "History"
 msgstr "История"
 
-#: activities/menu/Menu.qml:130
+#: activities/menu/Menu.qml:127
 msgctxt "Menu|"
 msgid "Geography"
 msgstr "География"
 
-#: activities/menu/Menu.qml:140
+#: activities/menu/Menu.qml:137
 msgctxt "Menu|"
 msgid "Numeration"
 msgstr "Броене"
 
-#: activities/menu/Menu.qml:141
+#: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr "Смятане"
 
-#: activities/menu/Menu.qml:142
+#: activities/menu/Menu.qml:139
 msgctxt "Menu|"
 msgid "Measures"
 msgstr "Мерни единици"
 
-#: activities/menu/Menu.qml:152
+#: activities/menu/Menu.qml:149
 msgctxt "Menu|"
 msgid "Letters"
 msgstr "Букви"
 
-#: activities/menu/Menu.qml:153
+#: activities/menu/Menu.qml:150
 msgctxt "Menu|"
 msgid "Words"
 msgstr "Думи"
 
-#: activities/menu/Menu.qml:154
+#: activities/menu/Menu.qml:151
 msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr "Речник"
 
-#: activities/menu/Menu.qml:372
+#: activities/menu/Menu.qml:369
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by clicking on the sun at the top right of "
@@ -19085,12 +19084,12 @@ msgstr ""
 "Поставете любимите си занимания тук, като кликнете върху слънцето в горния "
 "десен ъгъл на картинката на заниманието."
 
-#: activities/menu/Menu.qml:792
+#: activities/menu/Menu.qml:789
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr "Търсене на специфични занимания"
 
-#: activities/menu/Menu.qml:819
+#: activities/menu/Menu.qml:816
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr "Настройки на заниманието"
@@ -19284,7 +19283,7 @@ msgid ""
 "joining a translation team on <a href=\"%2\">%2</a>"
 msgstr ""
 "GCompris е разработен от общността на KDE, можете да преведете GCompris, "
-"като се присъедините към екипа за превод на <a href=\"%2\">%2</a>"
+"като се присъедините към екипа за превод на <a href=„%2“>%2</a>"
 
 #: activities/missing-letter/MissingLetter.qml:326
 msgctxt "MissingLetter|"
@@ -22142,7 +22141,7 @@ msgid ""
 "<b>Loop</b> is a sequence of instructions that is <b>continually repeated "
 "the number of times defined by the number inside it</b>."
 msgstr ""
-"<b>Цикъл</b> е последователност от инструкции, която се повтаря толкова "
+"<b>Цикъл</b> е последователност от инструкции, която се <b>повтаря толкова "
 "пъти, за колкото е зададено</b>."
 
 #: activities/programmingMaze/programmingMaze.js:125
@@ -23886,6 +23885,269 @@ msgstr ""
 msgctxt "ActivityInfo|"
 msgid "Tab: switch between the color selector and the painting area"
 msgstr "Таb: превключване между селектора на цветове и областта за рисуване"
+
+#: activities/sketch/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid "Sketch"
+msgstr "Скица"
+
+#: activities/sketch/ActivityInfo.qml:18
+msgctxt "ActivityInfo|"
+msgid "Use the various digital painting tools to draw images."
+msgstr "Използвай инструментите за рисуване на изображения."
+
+#: activities/sketch/ActivityInfo.qml:20
+msgctxt "ActivityInfo|"
+msgid "Learn about some digital painting tools."
+msgstr "Запознаване с някои инструменти за цифрово рисуване."
+
+#: activities/sketch/ActivityInfo.qml:22
+msgctxt "ActivityInfo|"
+msgid ""
+"Select tools and colors from the foldable panels and draw images.<br><br>"
+msgstr ""
+"Избери инструменти и цветове от сгъваемите панели и нарисувай изображения."
+"<br><br>"
+
+#: activities/sketch/ActivityInfo.qml:23
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard controls:"
+msgstr "<b>Клавиатурни контроли:"
+
+#: activities/sketch/ActivityInfo.qml:24
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Z: undo last action"
+msgstr "Ctrl + Z: Отмяна на последното действие"
+
+#: activities/sketch/ActivityInfo.qml:25
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Y: redo last action"
+msgstr "Ctrl + Y: Възстановяване на последното отменено действие"
+
+#: activities/sketch/ActivityInfo.qml:26
+msgctxt "ActivityInfo|"
+msgid "Ctrl + S: save the image"
+msgstr "Ctrl + S: Запазване на изображението"
+
+#: activities/sketch/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Ctrl + O: open an image"
+msgstr "Ctrl + O: Отваряне на изображение"
+
+#: activities/sketch/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Ctrl + N, Delete or Backspace: create a new image"
+msgstr "Ctrl + N, Delete или Backspace: създаване на ново изображение"
+
+#: activities/sketch/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Brush smoothing concept from:"
+msgstr "Изглаждане на четката:"
+
+#: activities/sketch/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Sketch brush concept from:"
+msgstr "Четка за скициране:"
+
+#: activities/sketch/BackgroundColorSelector.qml:40
+msgctxt "BackgroundColorSelector|"
+msgid "Background color"
+msgstr "Цвят на фона"
+
+#: activities/sketch/BackgroundSelector.qml:42
+msgctxt "BackgroundSelector|"
+msgid "Background image"
+msgstr "Изображение за фон"
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Eraser Tools"
+msgstr "Гума"
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Drawing Tools"
+msgstr "Инструменти за рисуване"
+
+#: activities/sketch/ColorSelector.qml:75
+msgctxt "ColorSelector|"
+msgid "Palette Colors"
+msgstr "Цветова палитра"
+
+#: activities/sketch/ColorSelector.qml:159
+msgctxt "ColorSelector|"
+msgid "Reset palette"
+msgstr "Нулиране на палитрата"
+
+#: activities/sketch/ColorSelector.qml:210
+msgctxt "ColorSelector|"
+msgid "Selected Color"
+msgstr "Избран цвят"
+
+#. Color hue
+#: activities/sketch/ColorSelector.qml:234
+msgctxt "ColorSelector|color hue"
+msgid "Hue"
+msgstr "Отенък"
+
+#. Color saturation
+#: activities/sketch/ColorSelector.qml:261
+msgctxt "ColorSelector|color saturation"
+msgid "Saturation"
+msgstr "Насищане"
+
+#. Color lightness
+#: activities/sketch/ColorSelector.qml:286
+msgctxt "ColorSelector|color lightness"
+msgid "Lightness"
+msgstr "Светлост"
+
+#. Reload default color for selected slot
+#: activities/sketch/ColorSelector.qml:323
+msgctxt "ColorSelector|"
+msgid "Reset Color"
+msgstr "Нулиране на цветовете"
+
+#: activities/sketch/ColorsPanel.qml:157
+msgctxt "ColorsPanel|"
+msgid "Palettes"
+msgstr "Палитри"
+
+#: activities/sketch/FilesPanel.qml:46
+msgctxt "FilesPanel|"
+msgid "Save your image"
+msgstr "Запази изображението"
+
+#: activities/sketch/FilesPanel.qml:85
+msgctxt "FilesPanel|"
+msgid "Open an image"
+msgstr "Отваряне на изображение"
+
+#: activities/sketch/FilesPanel.qml:116
+msgctxt "FilesPanel|"
+msgid "New image settings"
+msgstr "Нови настройки на изображението"
+
+#: activities/sketch/FilesPanel.qml:144
+msgctxt "FilesPanel|"
+msgid "Background color"
+msgstr "Цвят на фона"
+
+#: activities/sketch/FilesPanel.qml:190
+msgctxt "FilesPanel|"
+msgid "Background image"
+msgstr "Изображение за фон"
+
+#: activities/sketch/FilesPanel.qml:231
+msgctxt "FilesPanel|"
+msgid "Create a new image"
+msgstr "Ново изображение"
+
+#. Rectangle or Square radius size
+#: activities/sketch/GeometryTool.qml:23
+msgctxt "GeometryTool|"
+msgid "Rounded Corners"
+msgstr "Заоблени ъгли"
+
+#: activities/sketch/GeometryToolPanel.qml:17
+msgctxt "GeometryToolPanel|"
+msgid "Geometry Tools"
+msgstr "Геометрични фигури"
+
+#: activities/sketch/GradientTool.qml:22
+msgctxt "GradientTool|"
+msgid "Inner Circle Size"
+msgstr "Размер на вътреш"
+
+#: activities/sketch/GradientToolPanel.qml:17
+msgctxt "GradientToolPanel|"
+msgid "Gradient Tools"
+msgstr "Преливка"
+
+#: activities/sketch/Sketch.qml:673
+msgctxt "Sketch|"
+msgid "You did not save this image. Do you want to close this activity?"
+msgstr "Изображението не е запазено. Искаш ли да затвориш това занимание?"
+
+#: activities/sketch/Sketch.qml:674
+msgctxt "Sketch|"
+msgid "Do you want to erase this image?"
+msgstr "Искаш ли да изтриеш това изображение?"
+
+#: activities/sketch/Sketch.qml:675
+msgctxt "Sketch|"
+msgid "Yes"
+msgstr "Да"
+
+#: activities/sketch/Sketch.qml:676
+msgctxt "Sketch|"
+msgid "No"
+msgstr "Не"
+
+#: activities/sketch/StampToolPanel.qml:18
+msgctxt "StampToolPanel|"
+msgid "Stamp Tool"
+msgstr "Печат"
+
+#: activities/sketch/TextToolPanel.qml:17
+msgctxt "TextToolPanel|"
+msgid "Text Tool"
+msgstr "Текст"
+
+#: activities/sketch/TextToolPanel.qml:33
+msgctxt "TextToolPanel|"
+msgid "Type your text here"
+msgstr "Въведете текста си тук"
+
+#: activities/sketch/ToolsPanel.qml:253
+msgctxt "ToolsPanel|"
+msgid "Tools"
+msgstr "Инструменти"
+
+#: activities/sketch/ToolsPanel.qml:427
+msgctxt "ToolsPanel|"
+msgid "Reset tool settings"
+msgstr "Връщане на стандартните настройки"
+
+#: activities/sketch/ToolsPanel.qml:483
+msgctxt "ToolsPanel|"
+msgid "Opacity"
+msgstr "Непрозрачност"
+
+#: activities/sketch/ToolsPanel.qml:506
+msgctxt "ToolsPanel|"
+msgid "Size"
+msgstr "Размер"
+
+#: activities/sketch/ToolsPanel.qml:526
+msgctxt "ToolsPanel|"
+msgid "Speed"
+msgstr "Скорост"
+
+#: activities/sketch/ToolsPanel.qml:546
+msgctxt "ToolsPanel|"
+msgid "Density"
+msgstr "Плътност"
+
+#: activities/sketch/ToolsPanel.qml:566
+msgctxt "ToolsPanel|"
+msgid "Dots Size"
+msgstr "Размер на точките"
+
+#: activities/sketch/ToolsPanel.qml:585
+msgctxt "ToolsPanel|"
+msgid "Smoothing"
+msgstr "Изглаждане"
+
+#: activities/sketch/ToolsPanel.qml:646
+msgctxt "ToolsPanel|"
+msgid "Rotation"
+msgstr "Въртене"
+
+#: activities/sketch/ToolsPanel.qml:662
+msgctxt "ToolsPanel|"
+msgid "Mirror image"
+msgstr "Огледален образ"
 
 #. Activity title
 #: activities/smallnumbers/ActivityInfo.qml:15
@@ -26672,13 +26934,13 @@ msgid ""
 "and the software we produce."
 msgstr ""
 "<b>KDE</b> е световна мрежа от софтуерни инженери, художници, писатели, "
-"преводачи и координатори, които са ангажирани с разработка на <a href="
-"\"%1\">свободен софтуер </a>  Тази общност е създала стотици безплатни "
+"преводачи и координатори, които са ангажирани с разработка на <a "
+"href=„%1“>свободен софтуер </a>  Тази общност е създала стотици безплатни "
 "софтуерни приложения като част от KDE фреймуърк, работни пространства и "
 "програми. <br /> KDE е колективна инициатива и не се контролира от една "
 "група, компания  или организация. Всички са поканени да допринесат за KDE. "
 "Всеки е добре дошъл да  се присъедини и допринесе за KDE, включително и вие. "
-"<br /> <br /> Посетете <a href=\"%2\">%2 </a> за повече информация за "
+"<br /> <br /> Посетете <a href=„%2“>%2 </a> за повече информация за "
 "общността на KDE и софтуера, който правим."
 
 #: core/DialogAbout.qml:93
@@ -26696,8 +26958,8 @@ msgstr ""
 "Даден софтуер винаги може да бъде подобрен, а екипът на KDE е готов да го "
 "направи. Въпреки това, вие - потребителите - трябва да ни дадете информация, "
 "когато нещо не работи както се очаква или би могло да бъде подобрено. <br /> "
-"KDE има система за проследяване на грешки. Посетете. <a href=\"%1\">%1 </a> "
-"За да съобщите за грешка. <br /> Ако имате предложение за подобрение, тогава "
+"KDE има система за проследяване на грешки. Посетете. <a href=„%1“>%1 </a> За "
+"да съобщите за грешка. <br /> Ако имате предложение за подобрение, тогава "
 "сте добре дошли да използвате система за проследяване на грешки, за да "
 "регистрирате желанието си. Уверете се, че използвате тежестта, наречена  "
 "\"Списък с желания \"."
@@ -26717,10 +26979,10 @@ msgstr ""
 "Не е нужно да сте разработчик на софтуер, за да сте член на екипа на KDE. "
 "Можете да се присъедините към преводаческия екип, който превежда програмните "
 "интерфейси за вашия език. Можете да предоставяте графики, теми, звуци и "
-"подобрена документация. Вие решавате! <br /><br />Посетете <a href=\"%1\">"
-"%1</a> за информация за някои проекти, в които можете да участвате<br /><br /"
-">Ако имате нужда от повече информация или документация, посетете <a href="
-"\"%2\">%2</a> и там ще намерите това, от което се нуждаете."
+"подобрена документация. Вие решавате! <br /><br />Посетете <a href=„%1“>%1</"
+"a> за информация за някои проекти, в които можете да участвате<br /><br /"
+">Ако имате нужда от повече информация или документация, посетете <a "
+"href=„%2“>%2</a> и там ще намерите това, от което се нуждаете."
 
 #: core/DialogAbout.qml:122
 #, qt-format
@@ -26739,15 +27001,15 @@ msgid ""
 msgstr ""
 "За да подкрепи развитието, общността на KDE създаде KDE E.V., организация с "
 "нестопанска цел, законно основана в Германия. KDE E.V. представлява "
-"общността на KDE по правни и финансови въпроси. Вижте  <a href=\"%1\">%1</a> "
+"общността на KDE по правни и финансови въпроси. Вижте  <a href=„%1“>%1</a> "
 "За информация относно KDE E.V. <br /> <br /> KDE се възползва от много "
 "видове приноси, включително финансови. Ние използваме средствата за "
 "възстановяване на разходите, които членовете или други лица са извършили в "
 "процеса на допринасянето. Допълнително средства се използват за правна "
 "подкрепа и организиране конференции и срещи. <br /> <br /> Бихме искали да "
 "ви насърчим да подкрепите усилията ни с финансово дарение, използвайки един "
-"от начините, описани на<a href=\"%2\">%2</a>.<br /><br /> Благодарим ви "
-"много предварително за вашата подкрепа."
+"от начините, описани на<a href=„%2“>%2</a>.<br /><br /> Благодарим ви много "
+"предварително за вашата подкрепа."
 
 #: core/DialogAbout.qml:139
 #, qt-format
@@ -26939,65 +27201,70 @@ msgctxt "QObject|"
 msgid "No data found for %1."
 msgstr "Не са намерени данни за %1."
 
-#: core/GCCreationHandler.qml:134
+#: core/GCCreationHandler.qml:176
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr "%1 е изтрито успешно!"
 
-#: core/GCCreationHandler.qml:135 core/GCCreationHandler.qml:140
-#: core/GCCreationHandler.qml:181
+#: core/GCCreationHandler.qml:177 core/GCCreationHandler.qml:182
+#: core/GCCreationHandler.qml:235
 msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr "Добре"
 
-#: core/GCCreationHandler.qml:139
+#: core/GCCreationHandler.qml:181
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr "Невъзможно е да се изтрие %1!"
 
-#: core/GCCreationHandler.qml:172
+#: core/GCCreationHandler.qml:215
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr "Файл с това име вече съществува. Искате ли да го замените?"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr "Да"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr "Не"
 
-#: core/GCCreationHandler.qml:180
+#: core/GCCreationHandler.qml:222
+msgctxt "GCCreationHandler|"
+msgid "Do you really want to delete this file?"
+msgstr "Наистина ли искаш да изтриеш този файл?"
+
+#: core/GCCreationHandler.qml:234
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr "Спасено успешно!"
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr "Въведи името на файла"
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr "Търсене"
 
-#: core/GCCreationHandler.qml:219
+#: core/GCCreationHandler.qml:279
 msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr "Запазване"
 
-#: core/GCCreationHandler.qml:325
+#: core/GCCreationHandler.qml:386
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr "Зареждане"
 
-#: core/GCCreationHandler.qml:335
+#: core/GCCreationHandler.qml:396
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr "Изтриване"
@@ -27126,7 +27393,7 @@ msgstr ""
 "Посочете на кое ниво да започнете заниманието. Задава се само когато се "
 "използва опцията -launch."
 
-#: core/main.qml:263
+#: core/main.qml:235
 msgctxt "main|"
 msgid ""
 "Do you want to automatically download or update the following external "
@@ -27135,42 +27402,61 @@ msgstr ""
 "Искате ли автоматично да изтеглите или актуализирате следните външни активи "
 "при стартиране на GCompris?"
 
-#: core/main.qml:265
+#: core/main.qml:237
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr "Гласове за вашия език"
 
-#: core/main.qml:266
+#: core/main.qml:238
 msgctxt "main|"
 msgid "Full word image set"
 msgstr "Пълен набор от картинки на думи"
 
-#: core/main.qml:267
+#: core/main.qml:239
 msgctxt "main|"
 msgid "Background music"
 msgstr "Фонова музика"
 
-#: core/main.qml:273
+#: core/main.qml:245
 msgctxt "main|"
 msgid "Yes"
 msgstr "Да"
 
-#: core/main.qml:280
+#: core/main.qml:252
 msgctxt "main|"
 msgid "No"
 msgstr "Без"
 
-#: core/main.qml:316
+#: core/main.qml:274
+msgctxt "main|"
+msgid ""
+"Some activities have new dataset available. Do you want to reset their "
+"dataset selection?"
+msgstr ""
+"Някои занимания имат на разположение нов набор от данни. Искате ли да "
+"нулирате избора им на набор от данни?"
+
+#: core/main.qml:275
+msgctxt "main|"
+msgid "Apply"
+msgstr "Прилагане"
+
+#: core/main.qml:276
+msgctxt "main|"
+msgid "Cancel"
+msgstr "Отказване"
+
+#: core/main.qml:361
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr "Добре дошли в GCompris!"
 
-#: core/main.qml:317
+#: core/main.qml:362
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr "Пуснал си GCompris за първи път."
 
-#: core/main.qml:318
+#: core/main.qml:363
 msgctxt "main|"
 msgid ""
 "You should verify that your application settings especially your language is "
@@ -27180,40 +27466,21 @@ msgstr ""
 "език е зададен правилно. Можете да направите това в диалоговия прозорец за "
 "настройки."
 
-#: core/main.qml:320
+#: core/main.qml:365
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr "Забавлявай се!"
 
-#: core/main.qml:322
+#: core/main.qml:367
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr "Текущият език е %1 (%2)."
 
-#: core/main.qml:354
+#: core/main.qml:399
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr "Gcompris е актуализиран! Това са новите промени: <br />"
-
-#: core/main.qml:382
-msgctxt "main|"
-msgid ""
-"Some activities have new dataset available. Do you want to reset their "
-"dataset selection?"
-msgstr ""
-"Някои занимания имат на разположение нов набор от данни. Искате ли да "
-"нулирате избора им на набор от данни?"
-
-#: core/main.qml:383
-msgctxt "main|"
-msgid "Apply"
-msgstr "Прилагане"
-
-#: core/main.qml:384
-msgctxt "main|"
-msgid "Cancel"
-msgstr "Отказване"
 
 #: core/ReadyButton.qml:69
 msgctxt "ReadyButton|"

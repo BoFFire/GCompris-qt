@@ -30,8 +30,14 @@ QString File::sanitizeUrl(const QString &url)
     QString target(url);
 
     // make sure we strip off invalid URL schemes:
-    if (target.startsWith(QLatin1String("file://")))
+    // for windows, where path starts with C:/...
+    if (target.startsWith(QLatin1String("file://")) && target.indexOf(":", 9) == 9) {
+        target.remove(0, 8);
+    }
+    // for linux, where path starts with /...
+    else if (target.startsWith(QLatin1String("file://"))) {
         target.remove(0, 7);
+    }
     else if (target.startsWith(QLatin1String("qrc:/")))
         target.remove(0, 3);
 
@@ -129,6 +135,26 @@ bool File::append(const QString &data, const QString &name)
     out << data;
 
     file.close();
+
+    return true;
+}
+
+bool File::copy(const QString &sourceFile, const QString &name)
+{
+    if (!name.isEmpty())
+        setName(name);
+
+    if (m_name.isEmpty()) {
+        Q_EMIT error("source is empty");
+        return false;
+    }
+
+    if (QFile::exists(m_name)) {
+        QFile::remove(m_name);
+    }
+
+    QString sanitizedSourceFile = sanitizeUrl(sourceFile);
+    QFile::copy(sanitizedSourceFile, m_name);
 
     return true;
 }

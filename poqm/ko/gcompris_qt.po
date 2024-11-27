@@ -4224,23 +4224,23 @@ msgctxt "chess|"
 msgid "Drawn game"
 msgstr ""
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|black king is under attack"
 msgid "White checks"
 msgstr ""
 
-#: activities/chess/chess.js:136
+#: activities/chess/chess.js:141
 msgctxt "chess|white king is under attack"
 msgid "Black checks"
 msgstr ""
 
-#: activities/chess/chess.js:139
+#: activities/chess/chess.js:144
 msgctxt "chess|"
 msgid "Invalid, your king may be in check"
 msgstr ""
 
 #. Translators: undo all the moves in chess activity
-#: activities/chess/Chess.qml:137
+#: activities/chess/Chess.qml:140
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Do you really want to quit GCompris?"
@@ -4248,7 +4248,7 @@ msgctxt "Chess|"
 msgid "Do you really want to undo all the moves?"
 msgstr "GCompris를 종료하시겠습니까?"
 
-#: activities/chess/Chess.qml:138
+#: activities/chess/Chess.qml:141
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Yes"
@@ -4256,7 +4256,7 @@ msgctxt "Chess|"
 msgid "Yes"
 msgstr "예"
 
-#: activities/chess/Chess.qml:139
+#: activities/chess/Chess.qml:142
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "No"
@@ -18489,7 +18489,7 @@ msgctxt "ConfigurationItem|"
 msgid "All lowercase"
 msgstr ""
 
-#: activities/menu/Menu.qml:93
+#: activities/menu/Menu.qml:90
 #, fuzzy
 #| msgctxt "main|"
 #| msgid "Do you want to download the corresponding sound files now?"
@@ -18499,7 +18499,7 @@ msgid ""
 "files now?"
 msgstr "해당하는 음성 파일을 다운로드하시겠습니까?"
 
-#: activities/menu/Menu.qml:94
+#: activities/menu/Menu.qml:91
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Yes"
@@ -18507,7 +18507,7 @@ msgctxt "Menu|"
 msgid "Yes"
 msgstr "예"
 
-#: activities/menu/Menu.qml:101
+#: activities/menu/Menu.qml:98
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "No"
@@ -18515,37 +18515,37 @@ msgctxt "Menu|"
 msgid "No"
 msgstr "아니요"
 
-#: activities/menu/Menu.qml:120
+#: activities/menu/Menu.qml:117
 msgctxt "Menu|"
 msgid "Logic"
 msgstr ""
 
-#: activities/menu/Menu.qml:121
+#: activities/menu/Menu.qml:118
 msgctxt "Menu|"
 msgid "Fine Arts"
 msgstr ""
 
-#: activities/menu/Menu.qml:122
+#: activities/menu/Menu.qml:119
 msgctxt "Menu|"
 msgid "Music"
 msgstr ""
 
-#: activities/menu/Menu.qml:128
+#: activities/menu/Menu.qml:125
 msgctxt "Menu|"
 msgid "Experiment"
 msgstr ""
 
-#: activities/menu/Menu.qml:129
+#: activities/menu/Menu.qml:126
 msgctxt "Menu|"
 msgid "History"
 msgstr ""
 
-#: activities/menu/Menu.qml:130
+#: activities/menu/Menu.qml:127
 msgctxt "Menu|"
 msgid "Geography"
 msgstr ""
 
-#: activities/menu/Menu.qml:140
+#: activities/menu/Menu.qml:137
 #, fuzzy
 #| msgctxt "DialogHelp|"
 #| msgid "Section: "
@@ -18553,44 +18553,44 @@ msgctxt "Menu|"
 msgid "Numeration"
 msgstr "부분: "
 
-#: activities/menu/Menu.qml:141
+#: activities/menu/Menu.qml:138
 msgctxt "Menu|"
 msgid "Arithmetic"
 msgstr ""
 
-#: activities/menu/Menu.qml:142
+#: activities/menu/Menu.qml:139
 msgctxt "Menu|"
 msgid "Measures"
 msgstr ""
 
-#: activities/menu/Menu.qml:152
+#: activities/menu/Menu.qml:149
 msgctxt "Menu|"
 msgid "Letters"
 msgstr ""
 
-#: activities/menu/Menu.qml:153
+#: activities/menu/Menu.qml:150
 msgctxt "Menu|"
 msgid "Words"
 msgstr ""
 
-#: activities/menu/Menu.qml:154
+#: activities/menu/Menu.qml:151
 msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr ""
 
-#: activities/menu/Menu.qml:372
+#: activities/menu/Menu.qml:369
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by clicking on the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:792
+#: activities/menu/Menu.qml:789
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
 
-#: activities/menu/Menu.qml:819
+#: activities/menu/Menu.qml:816
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr ""
@@ -23010,6 +23010,312 @@ msgctxt "ActivityInfo|"
 msgid "Tab: switch between the color selector and the painting area"
 msgstr ""
 
+#: activities/sketch/ActivityInfo.qml:17
+msgctxt "ActivityInfo|"
+msgid "Sketch"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:18
+msgctxt "ActivityInfo|"
+msgid "Use the various digital painting tools to draw images."
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:20
+msgctxt "ActivityInfo|"
+msgid "Learn about some digital painting tools."
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:22
+msgctxt "ActivityInfo|"
+msgid ""
+"Select tools and colors from the foldable panels and draw images.<br><br>"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:23
+#, fuzzy
+#| msgctxt "ActivityInfo|"
+#| msgid "Keyboard training"
+msgctxt "ActivityInfo|"
+msgid "<b>Keyboard controls:"
+msgstr "키보드 연습"
+
+#: activities/sketch/ActivityInfo.qml:24
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Z: undo last action"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:25
+msgctxt "ActivityInfo|"
+msgid "Ctrl + Y: redo last action"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:26
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "Download in progress"
+msgctxt "ActivityInfo|"
+msgid "Ctrl + S: save the image"
+msgstr "다운로드 진행 중"
+
+#: activities/sketch/ActivityInfo.qml:27
+msgctxt "ActivityInfo|"
+msgid "Ctrl + O: open an image"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:28
+msgctxt "ActivityInfo|"
+msgid "Ctrl + N, Delete or Backspace: create a new image"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:29
+msgctxt "ActivityInfo|"
+msgid "Brush smoothing concept from:"
+msgstr ""
+
+#: activities/sketch/ActivityInfo.qml:30
+msgctxt "ActivityInfo|"
+msgid "Sketch brush concept from:"
+msgstr ""
+
+#: activities/sketch/BackgroundColorSelector.qml:40
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "BackgroundColorSelector|"
+msgid "Background color"
+msgstr "백그라운드 작업"
+
+#: activities/sketch/BackgroundSelector.qml:42
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "BackgroundSelector|"
+msgid "Background image"
+msgstr "백그라운드 작업"
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Eraser Tools"
+msgstr ""
+
+#: activities/sketch/BrushToolPanel.qml:17
+msgctxt "BrushToolPanel|"
+msgid "Drawing Tools"
+msgstr ""
+
+#: activities/sketch/ColorSelector.qml:75
+msgctxt "ColorSelector|"
+msgid "Palette Colors"
+msgstr ""
+
+#: activities/sketch/ColorSelector.qml:159
+msgctxt "ColorSelector|"
+msgid "Reset palette"
+msgstr ""
+
+#: activities/sketch/ColorSelector.qml:210
+#, fuzzy
+#| msgctxt "Traffic|"
+#| msgid "Select your mode"
+msgctxt "ColorSelector|"
+msgid "Selected Color"
+msgstr "모드 선택"
+
+#. Color hue
+#: activities/sketch/ColorSelector.qml:234
+msgctxt "ColorSelector|color hue"
+msgid "Hue"
+msgstr ""
+
+#. Color saturation
+#: activities/sketch/ColorSelector.qml:261
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Section: "
+msgctxt "ColorSelector|color saturation"
+msgid "Saturation"
+msgstr "부분: "
+
+#. Color lightness
+#: activities/sketch/ColorSelector.qml:286
+msgctxt "ColorSelector|color lightness"
+msgid "Lightness"
+msgstr ""
+
+#. Reload default color for selected slot
+#: activities/sketch/ColorSelector.qml:323
+msgctxt "ColorSelector|"
+msgid "Reset Color"
+msgstr ""
+
+#: activities/sketch/ColorsPanel.qml:157
+msgctxt "ColorsPanel|"
+msgid "Palettes"
+msgstr ""
+
+#: activities/sketch/FilesPanel.qml:46
+#, fuzzy
+#| msgctxt "Traffic|"
+#| msgid "Select your mode"
+msgctxt "FilesPanel|"
+msgid "Save your image"
+msgstr "모드 선택"
+
+#: activities/sketch/FilesPanel.qml:85
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "Download in progress"
+msgctxt "FilesPanel|"
+msgid "Open an image"
+msgstr "다운로드 진행 중"
+
+#: activities/sketch/FilesPanel.qml:116
+msgctxt "FilesPanel|"
+msgid "New image settings"
+msgstr ""
+
+#: activities/sketch/FilesPanel.qml:144
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "FilesPanel|"
+msgid "Background color"
+msgstr "백그라운드 작업"
+
+#: activities/sketch/FilesPanel.qml:190
+#, fuzzy
+#| msgctxt "DownloadDialog|"
+#| msgid "Background"
+msgctxt "FilesPanel|"
+msgid "Background image"
+msgstr "백그라운드 작업"
+
+#: activities/sketch/FilesPanel.qml:231
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "Download in progress"
+msgctxt "FilesPanel|"
+msgid "Create a new image"
+msgstr "다운로드 진행 중"
+
+#. Rectangle or Square radius size
+#: activities/sketch/GeometryTool.qml:23
+msgctxt "GeometryTool|"
+msgid "Rounded Corners"
+msgstr ""
+
+#: activities/sketch/GeometryToolPanel.qml:17
+msgctxt "GeometryToolPanel|"
+msgid "Geometry Tools"
+msgstr ""
+
+#: activities/sketch/GradientTool.qml:22
+msgctxt "GradientTool|"
+msgid "Inner Circle Size"
+msgstr ""
+
+#: activities/sketch/GradientToolPanel.qml:17
+msgctxt "GradientToolPanel|"
+msgid "Gradient Tools"
+msgstr ""
+
+#: activities/sketch/Sketch.qml:673
+msgctxt "Sketch|"
+msgid "You did not save this image. Do you want to close this activity?"
+msgstr ""
+
+#: activities/sketch/Sketch.qml:674
+#, fuzzy
+#| msgctxt "main|"
+#| msgid "Do you want to download the corresponding sound files now?"
+msgctxt "Sketch|"
+msgid "Do you want to erase this image?"
+msgstr "해당하는 음성 파일을 다운로드하시겠습니까?"
+
+#: activities/sketch/Sketch.qml:675
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "Yes"
+msgctxt "Sketch|"
+msgid "Yes"
+msgstr "예"
+
+#: activities/sketch/Sketch.qml:676
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "No"
+msgctxt "Sketch|"
+msgid "No"
+msgstr "아니요"
+
+#: activities/sketch/StampToolPanel.qml:18
+msgctxt "StampToolPanel|"
+msgid "Stamp Tool"
+msgstr ""
+
+#: activities/sketch/TextToolPanel.qml:17
+msgctxt "TextToolPanel|"
+msgid "Text Tool"
+msgstr ""
+
+#: activities/sketch/TextToolPanel.qml:33
+msgctxt "TextToolPanel|"
+msgid "Type your text here"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:253
+msgctxt "ToolsPanel|"
+msgid "Tools"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:427
+msgctxt "ToolsPanel|"
+msgid "Reset tool settings"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:483
+msgctxt "ToolsPanel|"
+msgid "Opacity"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:506
+msgctxt "ToolsPanel|"
+msgid "Size"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:526
+msgctxt "ToolsPanel|"
+msgid "Speed"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:546
+msgctxt "ToolsPanel|"
+msgid "Density"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:566
+msgctxt "ToolsPanel|"
+msgid "Dots Size"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:585
+msgctxt "ToolsPanel|"
+msgid "Smoothing"
+msgstr ""
+
+#: activities/sketch/ToolsPanel.qml:646
+#, fuzzy
+#| msgctxt "DialogHelp|"
+#| msgid "Section: "
+msgctxt "ToolsPanel|"
+msgid "Rotation"
+msgstr "부분: "
+
+#: activities/sketch/ToolsPanel.qml:662
+msgctxt "ToolsPanel|"
+msgid "Mirror image"
+msgstr ""
+
 #. Activity title
 #: activities/smallnumbers/ActivityInfo.qml:15
 msgctxt "ActivityInfo|"
@@ -25930,30 +26236,30 @@ msgctxt "QObject|"
 msgid "No data found for %1."
 msgstr ""
 
-#: core/GCCreationHandler.qml:134
+#: core/GCCreationHandler.qml:176
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "%1 deleted successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:135 core/GCCreationHandler.qml:140
-#: core/GCCreationHandler.qml:181
+#: core/GCCreationHandler.qml:177 core/GCCreationHandler.qml:182
+#: core/GCCreationHandler.qml:235
 msgctxt "GCCreationHandler|"
 msgid "Ok"
 msgstr ""
 
-#: core/GCCreationHandler.qml:139
+#: core/GCCreationHandler.qml:181
 #, qt-format
 msgctxt "GCCreationHandler|"
 msgid "Unable to delete %1!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:172
+#: core/GCCreationHandler.qml:215
 msgctxt "GCCreationHandler|"
 msgid "A file with this name already exists. Do you want to replace it?"
 msgstr ""
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Yes"
@@ -25961,7 +26267,7 @@ msgctxt "GCCreationHandler|"
 msgid "Yes"
 msgstr "예"
 
-#: core/GCCreationHandler.qml:173
+#: core/GCCreationHandler.qml:216 core/GCCreationHandler.qml:223
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "No"
@@ -25969,32 +26275,40 @@ msgctxt "GCCreationHandler|"
 msgid "No"
 msgstr "아니요"
 
-#: core/GCCreationHandler.qml:180
+#: core/GCCreationHandler.qml:222
+#, fuzzy
+#| msgctxt "core|"
+#| msgid "Do you really want to quit GCompris?"
+msgctxt "GCCreationHandler|"
+msgid "Do you really want to delete this file?"
+msgstr "GCompris를 종료하시겠습니까?"
+
+#: core/GCCreationHandler.qml:234
 msgctxt "GCCreationHandler|"
 msgid "Saved successfully!"
 msgstr ""
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Enter file name"
 msgstr ""
 
-#: core/GCCreationHandler.qml:202
+#: core/GCCreationHandler.qml:265
 msgctxt "GCCreationHandler|"
 msgid "Search"
 msgstr ""
 
-#: core/GCCreationHandler.qml:219
+#: core/GCCreationHandler.qml:279
 msgctxt "GCCreationHandler|"
 msgid "Save"
 msgstr ""
 
-#: core/GCCreationHandler.qml:325
+#: core/GCCreationHandler.qml:386
 msgctxt "GCCreationHandler|"
 msgid "Load"
 msgstr ""
 
-#: core/GCCreationHandler.qml:335
+#: core/GCCreationHandler.qml:396
 msgctxt "GCCreationHandler|"
 msgid "Delete"
 msgstr ""
@@ -26121,7 +26435,7 @@ msgid ""
 "is used."
 msgstr ""
 
-#: core/main.qml:263
+#: core/main.qml:235
 #, fuzzy
 #| msgctxt "main|"
 #| msgid "Do you want to download the corresponding sound files now?"
@@ -26131,12 +26445,12 @@ msgid ""
 "assets when starting GCompris?"
 msgstr "해당하는 음성 파일을 다운로드하시겠습니까?"
 
-#: core/main.qml:265
+#: core/main.qml:237
 msgctxt "main|"
 msgid "Voices for your language"
 msgstr ""
 
-#: core/main.qml:266
+#: core/main.qml:238
 #, fuzzy
 #| msgctxt "core|"
 #| msgid "Download in progress"
@@ -26144,7 +26458,7 @@ msgctxt "main|"
 msgid "Full word image set"
 msgstr "다운로드 진행 중"
 
-#: core/main.qml:267
+#: core/main.qml:239
 #, fuzzy
 #| msgctxt "DownloadDialog|"
 #| msgid "Background"
@@ -26152,27 +26466,47 @@ msgctxt "main|"
 msgid "Background music"
 msgstr "백그라운드 작업"
 
-#: core/main.qml:273
+#: core/main.qml:245
 msgctxt "main|"
 msgid "Yes"
 msgstr "예"
 
-#: core/main.qml:280
+#: core/main.qml:252
 msgctxt "main|"
 msgid "No"
 msgstr "아니요"
 
-#: core/main.qml:316
+#: core/main.qml:274
+msgctxt "main|"
+msgid ""
+"Some activities have new dataset available. Do you want to reset their "
+"dataset selection?"
+msgstr ""
+
+#: core/main.qml:275
+msgctxt "main|"
+msgid "Apply"
+msgstr ""
+
+#: core/main.qml:276
+#, fuzzy
+#| msgctxt "board5_0|"
+#| msgid "France"
+msgctxt "main|"
+msgid "Cancel"
+msgstr "프랑스"
+
+#: core/main.qml:361
 msgctxt "main|"
 msgid "Welcome to GCompris!"
 msgstr "GCompris에 오신 것을 환영합니다!"
 
-#: core/main.qml:317
+#: core/main.qml:362
 msgctxt "main|"
 msgid "You are running GCompris for the first time."
 msgstr "GCompris를 최초로 실행했습니다."
 
-#: core/main.qml:318
+#: core/main.qml:363
 #, fuzzy
 #| msgctxt "main|"
 #| msgid ""
@@ -26187,41 +26521,21 @@ msgstr ""
 "사용할 언어 등 앱 설정이 올바른지 확인하고, 언어별 음성 파일이 설치되어 있는"
 "지 확인하십시오. 설정 대화 상자에서 확인할 수 있습니다."
 
-#: core/main.qml:320
+#: core/main.qml:365
 msgctxt "main|"
 msgid "Have Fun!"
 msgstr ""
 
-#: core/main.qml:322
+#: core/main.qml:367
 #, qt-format
 msgctxt "main|"
 msgid "Your current language is %1 (%2)."
 msgstr "현재 언어는 %1(%2)입니다."
 
-#: core/main.qml:354
+#: core/main.qml:399
 msgctxt "main|"
 msgid "GCompris has been updated! Here are the new changes:<br/>"
 msgstr ""
-
-#: core/main.qml:382
-msgctxt "main|"
-msgid ""
-"Some activities have new dataset available. Do you want to reset their "
-"dataset selection?"
-msgstr ""
-
-#: core/main.qml:383
-msgctxt "main|"
-msgid "Apply"
-msgstr ""
-
-#: core/main.qml:384
-#, fuzzy
-#| msgctxt "board5_0|"
-#| msgid "France"
-msgctxt "main|"
-msgid "Cancel"
-msgstr "프랑스"
 
 #: core/ReadyButton.qml:69
 msgctxt "ReadyButton|"
@@ -26666,13 +26980,6 @@ msgstr ""
 #~ msgctxt "LetterInWord|"
 #~ msgid "Select your locale"
 #~ msgstr "모드 선택"
-
-#, fuzzy
-#~| msgctxt "main|"
-#~| msgid "Do you want to download the corresponding sound files now?"
-#~ msgctxt "ConfigurationItem|"
-#~ msgid "Do you want to download it now?"
-#~ msgstr "해당하는 음성 파일을 다운로드하시겠습니까?"
 
 #, fuzzy
 #~| msgctxt "main|"
