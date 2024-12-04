@@ -74,6 +74,7 @@
   <summary xml:lang="eo">Eduka ludo por infanoj</summary>
   <summary xml:lang="es">Juego educativo para niños</summary>
   <summary xml:lang="eu">Haurrentzako joko hezigarria</summary>
+  <summary xml:lang="fi">Opettavainen peli lapsille</summary>
   <summary xml:lang="fr">Jeu éducatif pour enfants</summary>
   <summary xml:lang="gl">Xogo educativo para cativos.</summary>
   <summary xml:lang="he">משחק לימודי לילדים</summary>
@@ -88,6 +89,7 @@
   <summary xml:lang="pl">Gra edukacyjna z dla dzieci</summary>
   <summary xml:lang="pt-BR">Jogo educacional para crianças</summary>
   <summary xml:lang="sl">Izobraževalna igra za otroke</summary>
+  <summary xml:lang="sq">Lojë edukative për fëmijë</summary>
   <summary xml:lang="sv">Pedagogiskt spel för barn</summary>
   <summary xml:lang="tr">Çocuklar için Oyunlar</summary>
   <summary xml:lang="uk">Освітня гра для дітей</summary>
@@ -1234,6 +1236,7 @@
     <value key="KDE::f_droid">https://f-droid.org/en/packages/net.gcompris.full/</value>
     <value key="KDE::google_play">https://play.google.com/store/apps/details?id=net.gcompris.full</value>
     <value key="KDE::windows_store">https://www.microsoft.com/store/apps/9pgxjtcxn8qm</value>
+    <value key="KDE::supporters">[jdkiser](https://social.sdf.org/@jdkiser);fabacam;Michael Klingberg;[Gianmarco Gargiulo](https://mastodon.uno/@gianmarcogg03)</value>
   </custom>
   <releases>
     <release version="4.3" date="2024-11-29"/>
