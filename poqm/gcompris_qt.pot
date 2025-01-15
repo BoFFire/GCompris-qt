@@ -2500,13 +2500,13 @@ msgid ""
 "same time."
 msgstr ""
 
-#: activities/ballcatch/Ballcatch.qml:228
+#: activities/ballcatch/Ballcatch.qml:226
 msgctxt "Ballcatch|"
 msgid ""
 "Tap both hands at the same time, to make the ball go in a straight line."
 msgstr ""
 
-#: activities/ballcatch/Ballcatch.qml:230
+#: activities/ballcatch/Ballcatch.qml:228
 msgctxt "Ballcatch|"
 msgid ""
 "Press left and right arrow keys at the same time, to make the ball go in a "
@@ -6279,19 +6279,19 @@ msgid ""
 "animal that matches the text."
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:345
+#: activities/explore_farm_animals/ExploreLevels.qml:331
 msgctxt "ExploreLevels|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:346
+#: activities/explore_farm_animals/ExploreLevels.qml:332
 msgctxt "ExploreLevels|"
 msgid "Quit"
 msgstr ""
 
-#: activities/explore_farm_animals/ExploreLevels.qml:347
+#: activities/explore_farm_animals/ExploreLevels.qml:333
 msgctxt "ExploreLevels|"
 msgid "Continue"
 msgstr ""
@@ -17589,19 +17589,19 @@ msgctxt "Menu|"
 msgid "Vocabulary"
 msgstr ""
 
-#: activities/menu/Menu.qml:369
+#: activities/menu/Menu.qml:376
 msgctxt "Menu|"
 msgid ""
 "Put your favorite activities here by clicking on the sun at the top right of "
 "that activity."
 msgstr ""
 
-#: activities/menu/Menu.qml:789
+#: activities/menu/Menu.qml:792
 msgctxt "Menu|"
 msgid "Search specific activities"
 msgstr ""
 
-#: activities/menu/Menu.qml:816
+#: activities/menu/Menu.qml:819
 msgctxt "Menu|"
 msgid "Activity Settings"
 msgstr ""
@@ -19314,7 +19314,7 @@ msgid ""
 msgstr ""
 
 #. BPM is the abbreviation for Beats Per Minute.
-#: activities/piano_composition/BpmMeter.qml:48
+#: activities/piano_composition/BpmMeter.qml:47
 #, qt-format
 msgctxt "BpmMeter|"
 msgid "%1 BPM"
@@ -19621,49 +19621,49 @@ msgctxt "piano_composition|"
 msgid "Melody saved to your file (%1)"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:359
+#: activities/piano_composition/Piano_composition.qml:361
 msgctxt "Piano_composition|"
 msgid "You have not selected any note. Do you want to erase all the notes?"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:360
+#: activities/piano_composition/Piano_composition.qml:362
 msgctxt "Piano_composition|"
 msgid "Yes"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:366
+#: activities/piano_composition/Piano_composition.qml:368
 msgctxt "Piano_composition|"
 msgid "No"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:416
+#: activities/piano_composition/Piano_composition.qml:418
 msgctxt "Piano_composition|"
 msgid "Select the type of melody to load."
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:421
+#: activities/piano_composition/Piano_composition.qml:423
 msgctxt "Piano_composition|"
 msgid "Pre-defined melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:439
+#: activities/piano_composition/Piano_composition.qml:441
 msgctxt "Piano_composition|"
 msgid "Your saved melodies"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:553
+#: activities/piano_composition/Piano_composition.qml:555
 msgctxt "Piano_composition|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:554
+#: activities/piano_composition/Piano_composition.qml:556
 msgctxt "Piano_composition|"
 msgid "Quit"
 msgstr ""
 
-#: activities/piano_composition/Piano_composition.qml:555
+#: activities/piano_composition/Piano_composition.qml:557
 msgctxt "Piano_composition|"
 msgid "Continue"
 msgstr ""
@@ -19920,24 +19920,24 @@ msgctxt "ActivityInfo|"
 msgid "Backspace or Delete: undo"
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:198
+#: activities/play_piano/PlayPiano.qml:197
 msgctxt "PlayPiano|"
 msgid "Click on the piano keys that match the given notes."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:311
+#: activities/play_piano/PlayPiano.qml:310
 msgctxt "PlayPiano|"
 msgid ""
 "This activity requires sound, so it will play some sounds even if the audio "
 "voices or effects are disabled in the main configuration."
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:312
+#: activities/play_piano/PlayPiano.qml:311
 msgctxt "PlayPiano|"
 msgid "Quit"
 msgstr ""
 
-#: activities/play_piano/PlayPiano.qml:313
+#: activities/play_piano/PlayPiano.qml:312
 msgctxt "PlayPiano|"
 msgid "Continue"
 msgstr ""
@@ -20015,14 +20015,14 @@ msgctxt "ActivityInfo|"
 msgid "Tab: Start or stop the metronome if it is visible"
 msgstr ""
 
-#: activities/play_rhythm/PlayRhythm.qml:133
+#: activities/play_rhythm/PlayRhythm.qml:135
 msgctxt "PlayRhythm|"
 msgid ""
 "Use the metronome to estimate the time intervals and play the rhythm "
 "correctly."
 msgstr ""
 
-#: activities/play_rhythm/PlayRhythm.qml:134
+#: activities/play_rhythm/PlayRhythm.qml:136
 msgctxt "PlayRhythm|"
 msgid ""
 "Follow the vertical line and click on the drum or press space key to play "
@@ -21941,41 +21941,41 @@ msgctxt "BrushToolPanel|"
 msgid "Drawing Tools"
 msgstr ""
 
-#: activities/sketch/ColorSelector.qml:75
+#: activities/sketch/ColorSelector.qml:76
 msgctxt "ColorSelector|"
 msgid "Palette Colors"
 msgstr ""
 
-#: activities/sketch/ColorSelector.qml:159
+#: activities/sketch/ColorSelector.qml:160
 msgctxt "ColorSelector|"
 msgid "Reset palette"
 msgstr ""
 
-#: activities/sketch/ColorSelector.qml:210
+#: activities/sketch/ColorSelector.qml:211
 msgctxt "ColorSelector|"
 msgid "Selected Color"
 msgstr ""
 
 #. Color hue
-#: activities/sketch/ColorSelector.qml:234
+#: activities/sketch/ColorSelector.qml:235
 msgctxt "ColorSelector|color hue"
 msgid "Hue"
 msgstr ""
 
 #. Color saturation
-#: activities/sketch/ColorSelector.qml:261
+#: activities/sketch/ColorSelector.qml:262
 msgctxt "ColorSelector|color saturation"
 msgid "Saturation"
 msgstr ""
 
 #. Color lightness
-#: activities/sketch/ColorSelector.qml:286
+#: activities/sketch/ColorSelector.qml:287
 msgctxt "ColorSelector|color lightness"
 msgid "Lightness"
 msgstr ""
 
 #. Reload default color for selected slot
-#: activities/sketch/ColorSelector.qml:323
+#: activities/sketch/ColorSelector.qml:324
 msgctxt "ColorSelector|"
 msgid "Reset Color"
 msgstr ""
@@ -23750,12 +23750,12 @@ msgid ""
 "you un-mark them, by double clicking on them again."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:146
+#: activities/superbrain/Superbrain.qml:151
 msgctxt "Superbrain|"
 msgid "This item is well placed."
 msgstr ""
 
-#: activities/superbrain/Superbrain.qml:148
+#: activities/superbrain/Superbrain.qml:153
 msgctxt "Superbrain|"
 msgid "This item is misplaced."
 msgstr ""
@@ -25072,17 +25072,17 @@ msgctxt "DialogChooseLevel|"
 msgid "Options"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:344
+#: core/DialogChooseLevel.qml:345
 msgctxt "DialogChooseLevel|"
 msgid "Cancel"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:352
+#: core/DialogChooseLevel.qml:353
 msgctxt "DialogChooseLevel|"
 msgid "Save"
 msgstr ""
 
-#: core/DialogChooseLevel.qml:366
+#: core/DialogChooseLevel.qml:367
 msgctxt "DialogChooseLevel|"
 msgid "Save and start"
 msgstr ""
